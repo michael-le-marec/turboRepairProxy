@@ -7,5 +7,6 @@
 
 > ```git clone https://github.com/michael-le-marec/turboRepairProxy.git```
 
+> cd turboRepairProxy
 
 > ```sh repairProxyConfiguration.sh```
