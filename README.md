@@ -6,7 +6,7 @@
 => Issue: ipsetup doesn't create http-proxy file
 
 > ```git clone https://github.com/michael-le-marec/turboRepairProxy.git```
-
-> cd turboRepairProxy
-
+>
+> ```cd turboRepairProxy```
+>
 > ```sh repairProxyConfiguration.sh```
